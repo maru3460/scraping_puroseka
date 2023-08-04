@@ -1,8 +1,8 @@
 # スクレイピング
-from
-プロジェクトセカイ攻略Wiki
-https://pjsekai.com/
+from<br>
+プロジェクトセカイ攻略Wiki<br>
+https://pjsekai.com/<br><br>
 
-1.曲一覧の表示
-2.難易度指定(Master)の絞り込み
-3.ジャケットのダウンロード
+1.曲一覧の表示<br>
+2.難易度指定(Master)の絞り込み<br>
+3.ジャケットのダウンロード<br>
