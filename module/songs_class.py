@@ -59,7 +59,7 @@ class songs():
             print('適切な数字を入力してください')
             return
 
-        if not os.path.isfile(img_file_path):
+        if not os.path.isdir(img_file_path):
             os.mkdir(img_file_path)
 
         img_url = gs.search_img_url(self.songs_orig, self.url_main, self.inf_sum, self.song_name, song_index)
